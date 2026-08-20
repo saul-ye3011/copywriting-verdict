@@ -1,0 +1,29 @@
+{
+  "skill_name": "copywriting-verdict",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮一个主打可维修、可长期使用的电子工具品牌写 8 条 slogan。要求不要泛泛说环保和品质，要有排他性和记忆点。",
+      "expected_output": "Should diagnose the battlefield against replacement culture, generate multiple strategic directions, eliminate weak generic lines, and recommend concise slogans with reasons.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "鉴赏这句咖啡包装文案：Fresh energy for your future。按严格商业文案标准判断，短一点。",
+      "expected_output": "Should identify zombie words and abstraction, apply the five-dimensional rubric briefly, issue a rewrite verdict, and suggest a more concrete direction.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "给一个小户型折叠跑步机写网站 hero 文案，用户怕占地方但又想坚持运动。需要主标题、副标题和按钮。",
+      "expected_output": "Should use context diagnosis, choose a dominant attack angle, apply website hero weights, and produce hook-proof-action copy.",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "给一条展示两面发光图形墙组成转角展位的视频写 YouTube description 和 TikTok caption。不要复述镜头内容，要让观众理解这个转角对展位有什么价值。",
+      "expected_output": "Should identify the actual viewer and what the visual already communicates, derive a visible-design-choice to perceptual-change to viewer-value chain, reject report phrases such as 'the video shows', and produce distinct natural platform versions whose removal would cost interpretation or interest.",
+      "files": []
+    }
+  ]
+}
